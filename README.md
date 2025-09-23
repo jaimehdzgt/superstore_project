@@ -28,9 +28,9 @@ Un proyecto sencillo y presentable para explorar el dataset **Sample – Superst
 
 > Si quieres mostrar screenshots del informe, súbelos a `assets/` y agrégalos aquí:
 > 
-> ![Insights & Conclusiones — Superstore](assets/insights_1.png)
+> ![Insights & Conclusiones — Superstore](assets/Insights_1.png)
 > 
-> ![Insights & Conclusiones — Superstore (continuación)](assets/insights_2.png)
+> ![Insights & Conclusiones — Superstore (continuación)](assets/Insights_2.png)
 
 
 
