@@ -20,14 +20,7 @@ superstore_project/
 └─ README.md
 ```
 
-## Colab (rápido)
-1. Sube `notebooks/*.ipynb` a Colab.
-2. Si quieres usar el Excel completo, monta Drive y pon la ruta en `excel_path`:
-   ```python
-   from google.colab import drive; drive.mount('/content/drive')
-   excel_path = '/content/drive/MyDrive/Sample - Superstore.xlsx'
-   ```
-3. Si no, se usará `data/superstore_sample.csv`.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/jaimehdzgt/superstore_project/blob/main/notebooks/01_EDA_Superstore.ipynb)
 
----
 © 2025 MIT
