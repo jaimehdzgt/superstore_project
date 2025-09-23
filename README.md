@@ -32,11 +32,5 @@ Un proyecto sencillo y presentable para explorar el dataset **Sample – Superst
 > 
 > ![Insights & Conclusiones — Superstore (continuación)](assets/insights_2.png)
 
----
 
-## 🚀 Cómo ejecutarlo
 
-### Opción A: Abrir en Google Colab (recomendado)
-1. Haz clic en el badge de arriba **“Open in Colab”**.
-2. Corre las celdas superiores (instala dependencias si te lo pide).
-3. **Montar Drive** (el notebook te guía) y coloca tu Excel en:
