@@ -26,7 +26,7 @@ Un proyecto sencillo y presentable para explorar el dataset **Sample – Superst
   - `eda_outputs/describe_all.csv` (descriptivos)
   - `eda_outputs/superstore_sample_clean.csv` (muestra limpia)
 
-> Si quieres mostrar screenshots del informe, súbelos a `assets/` y agrégalos aquí:
+> Screenshots de Insights y Conclusiones
 > 
 > ![Insights & Conclusiones — Superstore](assets/insights_1.png)
 > 
