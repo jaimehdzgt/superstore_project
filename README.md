@@ -21,7 +21,7 @@ Un proyecto sencillo y presentable para explorar el dataset **Sample – Superst
   - Categorías y subcategorías top.
   - Modos de envío más usados y con mejor utilidad.
   - % de órdenes rentables y margen global.
-- Exporta **artefactos** útiles:
+- Exporta **archivos** útiles:
   - `eda_outputs/missing_report.csv` (reporte de nulos)
   - `eda_outputs/describe_all.csv` (descriptivos)
   - `eda_outputs/superstore_sample_clean.csv` (muestra limpia)
