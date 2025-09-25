@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaimehdzgt/superstore_project/blob/main/SuperStore.ipynb)
 
-Un proyecto sencillo y presentable para explorar el dataset **Sample – Superstore**, generar **insights** claros (segmentos, regiones, categorías, envíos, rentabilidad) y mostrar un **informe bonito** dentro del notebook (con bookmarks y KPIs).
+Un proyecto sencillo y presentable para explorar el dataset **Sample – Superstore**, generar **insights** claros (segmentos, regiones, categorías, envíos, rentabilidad) y mostrar un **informe visualmente atractivo** dentro del notebook (con bookmarks y KPIs).
 
 ---
 
